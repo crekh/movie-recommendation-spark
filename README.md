@@ -1,5 +1,5 @@
 # movie-recommendation-spark
-Movie Recommendation System using Spark (ALS)
+Personalized movie recommendation system using Apache Spark and ALS on 20M+ ratings
 
 1. **Project Overview**:
    Objective: Build a personalized movie recommendation system that ensures scalability while handling large-scale, highly sparse data.
